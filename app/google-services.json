@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "50059033266",
+    "firebase_url": "https://greenbeans-4745b-default-rtdb.firebaseio.com",
+    "project_id": "greenbeans-4745b",
+    "storage_bucket": "greenbeans-4745b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:50059033266:android:a02242b020e19535aba7ab",
+        "android_client_info": {
+          "package_name": "com.example.peas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "50059033266-s8nl5qrhbo9bo105690ggp44h8rfbins.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbtIkJruLcMWyhW2N9IRWYQTxki23qZgA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "50059033266-s8nl5qrhbo9bo105690ggp44h8rfbins.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
